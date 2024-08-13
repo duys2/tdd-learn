@@ -1,4 +1,4 @@
-package com.example.tdd;
+package pre;
 
 import static org.assertj.core.api.AssertionsForClassTypes.*;
 

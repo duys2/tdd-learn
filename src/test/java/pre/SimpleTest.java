@@ -1,4 +1,4 @@
-package com.example.tdd;
+package pre;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

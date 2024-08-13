@@ -1,4 +1,4 @@
-package com.example.tdd;
+package pre;
 
 public class Product {
 	private String name;
