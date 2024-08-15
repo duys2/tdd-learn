@@ -1,4 +1,4 @@
-package com.example.tdd;
+package pre2;
 
 public class Calculator {
 
